@@ -1,3 +1,6 @@
+### Open Source Contributions
+[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+
 Hello, i’m Harshit!
 
 I am a dedicated and dynamic full-stack web app developer with an insatiable passion for embracing new technologies and conquering challenging coding horizons. With a keen eye for detail and a knack for crafting seamless user experiences, I thrive on the continuous journey of learning and growth in the ever-evolving landscape of web development.
